@@ -17,7 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		57F503DD2E7E644600C960F3 /* PokeAR.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PokeAR.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		57F503DD2E7E644600C960F3 /* PokeAR.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = PokeAR.app; path = "/Users/victor/Documents/Progra/iOS/Aprendiendo/Swift/courses/AppBrewery/PokeAR/build/Debug-iphoneos/PokeAR.app"; sourceTree = "<absolute>"; };
 		57F503F32E7E6C5A00C960F3 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		57F503F42E7E6C5A00C960F3 /* art.scnassets */ = {isa = PBXFileReference; lastKnownFileType = wrapper.scnassets; path = art.scnassets; sourceTree = "<group>"; };
 		57F503F52E7E6C5A00C960F3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -43,16 +43,7 @@
 			children = (
 				57F503FB2E7E6C5A00C960F3 /* PokeAR */,
 				57FE46B02E8DB1170037D76B /* PokeAR.docc */,
-				57F503DE2E7E644600C960F3 /* Products */,
 			);
-			sourceTree = "<group>";
-		};
-		57F503DE2E7E644600C960F3 /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				57F503DD2E7E644600C960F3 /* PokeAR.app */,
-			);
-			name = Products;
 			sourceTree = "<group>";
 		};
 		57F503FB2E7E6C5A00C960F3 /* PokeAR */ = {
@@ -115,7 +106,7 @@
 			mainGroup = 57F503D42E7E644600C960F3;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = 57F503DE2E7E644600C960F3 /* Products */;
+			productRefGroup = 57F503D42E7E644600C960F3;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
