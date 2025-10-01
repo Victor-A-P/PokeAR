@@ -1,0 +1,26 @@
+{
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "resources" : [
+    {
+      "filename" : "Nidoqueen.arreferenceimage"
+    },
+    {
+      "filename" : "Nidoran.arreferenceimage"
+    },
+    {
+      "filename" : "Nidorina.arreferenceimage"
+    },
+    {
+      "filename" : "Persian.arreferenceimage"
+    },
+    {
+      "filename" : "Pidgeot.arreferenceimage"
+    },
+    {
+      "filename" : "Pidgey.arreferenceimage"
+    }
+  ]
+}
